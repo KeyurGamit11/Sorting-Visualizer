@@ -19,12 +19,13 @@ A visual representation of sorting algorithms built with Python and Pygame.
 3. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/SortingVisualizer.gi   
-Controls
-R: Reset the list
-SPACE: Start Sorting
-A: Ascending order
-D: Descending order
-B: Bubble Sort
-I: Insertion Sort
-M: Merge Sort
+   git clone https://github.com/your-username/SortingVisualizer.gi
+   
+## Controls
+### R: Reset the list
+### SPACE: Start Sorting
+### A: Ascending order
+### D: Descending order
+### B: Bubble Sort
+### I: Insertion Sort
+### M: Merge Sort
