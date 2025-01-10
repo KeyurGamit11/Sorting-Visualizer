@@ -19,7 +19,7 @@ A visual representation of sorting algorithms built with Python and Pygame.
 3. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/SortingVisualizer.gi
+   git clone https://github.com/KeyurGamit11/SortingVisualizer.gi
    
 ## Controls
 ### R: Reset the list
